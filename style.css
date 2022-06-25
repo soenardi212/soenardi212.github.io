@@ -1,0 +1,22 @@
+.jumbotron{
+  padding-top: 6rem;
+  /*background-color: #e2edff;*/
+  background-color: #000000;
+  color: white;
+}
+.jumbotron p{
+  padding: 0 2rem;
+}
+#projects{
+  background-color: #000000;
+}
+#projects h2{
+  color: white
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+}
+section{
+  padding-top: 5rem;
+}
